@@ -1,2 +1,2 @@
-# dio-desafio-git-hub
+# Dio Santander Bootcamp
 Desafio do primeiro projeto Bootcamp Santander
